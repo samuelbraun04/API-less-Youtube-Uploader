@@ -11,9 +11,18 @@ To use the API-less YouTube Uploader, you will need to download and install the 
 
 ## Usage
 
-Once you have these dependencies installed, you can build the project using the following command:
-
+Once you have these dependencies installed, you can compile and run the project using the following commands:
 
 ```
-java Youtu <path-to-video-file> <youtube-username> <youtube-password> <video-title> <video-description>
+javac YoutubeUploader
+java YoutubeUploader <chromedriver-location> <channel-id> <youtube-email> <youtube-password> <video-title> <description-textfile-location> <video-location> <thumbnail-location>
 ```
+
+This will upload the specified video file to the YouTube account associated with the given username and password, with the specified title and description.
+
+## Contributing
+Contributions to the API-less YouTube Uploader project are always welcome! If you have any ideas, suggestions, or bug reports, please submit them as issues on the project's GitHub page.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
