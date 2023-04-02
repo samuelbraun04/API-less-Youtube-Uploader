@@ -24,5 +24,6 @@ This will upload the specified video file to the YouTube account associated with
 Contributions to the API-less YouTube Uploader project are always welcome! If you have any ideas, suggestions, or bug reports, please submit them as issues on the project's GitHub page.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License
+ See the LICENSE file for more information.
 
